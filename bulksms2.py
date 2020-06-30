@@ -6,7 +6,7 @@ api_key = "#"
 africastalking.initialize(username,api_key)
 
 #recipients
-recipients = ['+254712345678']
+recipients = ['+254...']
 
 #message
 message = input("Enter your message: ")
